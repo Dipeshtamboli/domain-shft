@@ -1,2 +1,5 @@
-*.jpg
-*.jpeg
+datasets/OfficeHome/*
+datasets/office_31/*
+datasets/resnet_features_complete_office31/*
+#*.jpg
+#*.jpeg
